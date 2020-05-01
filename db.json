@@ -1,5 +1,10 @@
 {
-  "last24": [
+  "status": "OK",
+  "responseCode": "0000",
+  "description": "SUCCESS",
+  "count": 3,
+  "grand_total_hit": 6,
+  "data": [
     {
       "tanggal": "2020-04-23T09:00:17.000Z",
       "endpoint": "",
