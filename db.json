@@ -71,24 +71,6 @@
       "endpoint": "",
       "total_hit": 9,
       "status": "SUCCESS"
-    },
-    {
-      "tanggal": "2020-04-23T17:04:17.000Z",
-      "endpoint": "",
-      "total_hit": 9,
-      "status": "SUCCESS"
-    },
-    {
-      "tanggal": "2020-04-23T18:04:17.000Z",
-      "endpoint": "",
-      "total_hit": 9,
-      "status": "SUCCESS"
-    },
-    {
-      "tanggal": "2020-04-23T19:04:17.000Z",
-      "endpoint": "",
-      "total_hit": 9,
-      "status": "SUCCESS"
     }
   ]
 }
