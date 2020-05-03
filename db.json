@@ -72,5 +72,43 @@
       "total_hit": 9,
       "status": "SUCCESS"
     }
+  ],
+  "last6": [
+    {
+      "tanggal": "2020-04-23T05:00:17.000Z",
+      "endpoint": "",
+      "total_hit": 2,
+      "status": "SUCCESS"
+    },
+    {
+      "tanggal": "2020-04-23T06:00:17.000Z",
+      "endpoint": "",
+      "total_hit": 5,
+      "status": "SUCCESS"
+    },
+    {
+      "tanggal": "2020-04-23T07:00:17.000Z",
+      "endpoint": "",
+      "total_hit": 3,
+      "status": "SUCCESS"
+    },
+    {
+      "tanggal": "2020-04-23T08:00:17.000Z",
+      "endpoint": "",
+      "total_hit": 4,
+      "status": "SUCCESS"
+    },
+    {
+      "tanggal": "2020-04-23T09:00:17.000Z",
+      "endpoint": "",
+      "total_hit": 2,
+      "status": "SUCCESS"
+    },
+    {
+      "tanggal": "2020-04-23T10:02:17.000Z",
+      "endpoint": "",
+      "total_hit": 10,
+      "status": "SUCCESS"
+    }
   ]
 }
