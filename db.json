@@ -1,13 +1,4 @@
 {
-  "statusRate":{
-    "status": "OK",
-    "description": "Successfully",
-    "count": 1,
-    "data": {
-        "total_hit_success": 2,
-        "presentase": 50
-      }
-  },
   "last24": {
     "status": "OK",
     "responseCode": "0000",
