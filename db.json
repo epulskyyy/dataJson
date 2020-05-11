@@ -1,262 +1,186 @@
 {
   "last24": {
     "status": "OK",
-    "responseCode": "0000",
-    "description": "SUCCESS",
-    "count": 3,
-    "grand_total_hit": 6,
+    "responseCode": "200",
+    "description": "Successfully",
+    "success_rate": 100,
+    "total_number_of_hit": 6,
     "data": [
       {
-        "tanggal": "2020-04-23T05:00:17.000Z",
-        "endpoint": "",
-        "total_hit": 2,
-        "status": "SUCCESS"
+        "date": "2020-05-10T05:00:00.000+07:00",
+        "total_hit": 7
       },
       {
-        "tanggal": "2020-04-23T06:00:17.000Z",
-        "endpoint": "",
-        "total_hit": 5,
-        "status": "SUCCESS"
+        "date": "2020-05-10T06:00:00.000+07:00",
+        "total_hit": 5
       },
       {
-        "tanggal": "2020-04-23T07:00:17.000Z",
-        "endpoint": "",
-        "total_hit": 3,
-        "status": "SUCCESS"
+        "date": "2020-05-10T07:00:00.000+07:00",
+        "total_hit": 8
       },
       {
-        "tanggal": "2020-04-23T08:00:17.000Z",
-        "endpoint": "",
-        "total_hit": 4,
-        "status": "SUCCESS"
+        "date": "2020-05-10T08:00:00.000+07:00",
+        "total_hit": 7
       },
       {
-        "tanggal": "2020-04-23T09:00:17.000Z",
-        "endpoint": "",
-        "total_hit": 2,
-        "status": "SUCCESS"
+        "date": "2020-05-10T09:00:00.000+07:00",
+        "total_hit": 9
       },
       {
-        "tanggal": "2020-04-23T10:02:17.000Z",
-        "endpoint": "",
-        "total_hit": 10,
-        "status": "SUCCESS"
+        "date": "2020-05-10T10:00:00.000+07:00",
+        "total_hit": 12
       },
       {
-        "tanggal": "2020-04-23T11:04:17.000Z",
-        "endpoint": "",
-        "total_hit": 6,
-        "status": "SUCCESS"
+        "date": "2020-05-10T11:00:00.000+07:00",
+        "total_hit": 5
       },
       {
-        "tanggal": "2020-04-23T12:04:17.000Z",
-        "endpoint": "",
-        "total_hit": 9,
-        "status": "SUCCESS"
+        "date": "2020-05-10T12:00:00.000+07:00",
+        "total_hit": 9
       },
       {
-        "tanggal": "2020-04-23T13:04:17.000Z",
-        "endpoint": "",
-        "total_hit": 9,
-        "status": "SUCCESS"
+        "date": "2020-05-10T13:00:00.000+07:00",
+        "total_hit": 13
       },
       {
-        "tanggal": "2020-04-23T14:04:17.000Z",
-        "endpoint": "",
-        "total_hit": 9,
-        "status": "SUCCESS"
+        "date": "2020-05-10T14:00:00.000+07:00",
+        "total_hit": 8
       },
       {
-        "tanggal": "2020-04-23T15:04:17.000Z",
-        "endpoint": "",
-        "total_hit": 9,
-        "status": "SUCCESS"
-      },
-      {
-        "tanggal": "2020-04-23T16:04:17.000Z",
-        "endpoint": "",
-        "total_hit": 9,
-        "status": "SUCCESS"
+        "date": "2020-05-10T15:00:00.000+07:00",
+        "total_hit": 12
       }
     ]
   },
   "last12": {
     "status": "OK",
-    "responseCode": "0000",
-    "description": "SUCCESS",
-    "count": 3,
-    "grand_total_hit": 6,
+    "responseCode": "200",
+    "description": "Successfully",
+    "success_rate": 100,
+    "total_number_of_hit": 6,
     "data": [
       {
-        "tanggal": "2020-04-23T05:00:17.000Z",
-        "endpoint": "",
-        "total_hit": 2,
-        "status": "SUCCESS"
+        "date": "2020-05-10T05:00:00.000+07:00",
+        "total_hit": 6
       },
       {
-        "tanggal": "2020-04-23T06:00:17.000Z",
-        "endpoint": "",
-        "total_hit": 5,
-        "status": "SUCCESS"
+        "date": "2020-05-10T06:00:00.000+07:00",
+        "total_hit": 2
       },
       {
-        "tanggal": "2020-04-23T07:00:17.000Z",
-        "endpoint": "",
-        "total_hit": 3,
-        "status": "SUCCESS"
+        "date": "2020-05-10T07:00:00.000+07:00",
+        "total_hit": 3
       },
       {
-        "tanggal": "2020-04-23T08:00:17.000Z",
-        "endpoint": "",
-        "total_hit": 4,
-        "status": "SUCCESS"
+        "date": "2020-05-10T08:00:00.000+07:00",
+        "total_hit": 6
       },
       {
-        "tanggal": "2020-04-23T09:00:17.000Z",
-        "endpoint": "",
-        "total_hit": 2,
-        "status": "SUCCESS"
+        "date": "2020-05-10T09:00:00.000+07:00",
+        "total_hit": 5
       },
       {
-        "tanggal": "2020-04-23T10:02:17.000Z",
-        "endpoint": "",
-        "total_hit": 10,
-        "status": "SUCCESS"
+        "date": "2020-05-10T10:00:00.000+07:00",
+        "total_hit": 8
+      },
+      {
+        "date": "2020-05-10T11:00:00.000+07:00",
+        "total_hit": 5
+      },
+      {
+        "date": "2020-05-10T12:00:00.000+07:00",
+        "total_hit": 9
+      },
+      {
+        "date": "2020-05-10T13:00:00.000+07:00",
+        "total_hit": 13
+      },
+      {
+        "date": "2020-05-10T14:00:00.000+07:00",
+        "total_hit": 8
+      },
+      {
+        "date": "2020-05-10T15:00:00.000+07:00",
+        "total_hit": 12
       }
     ]
   },
   "last3": {
     "status": "OK",
-    "responseCode": "0000",
-    "description": "SUCCESS",
-    "count": 3,
-    "grand_total_hit": 6,
+    "responseCode": "200",
+    "description": "Successfully",
+    "success_rate": 100,
+    "total_number_of_hit": 6,
     "data": [
       {
-        "tanggal": "2020-04-23T05:00:17.000Z",
-        "endpoint": "",
-        "total_hit": 4,
-        "status": "SUCCESS"
+        "date": "2020-05-10T20:30:00.000+07:00",
+        "total_hit": 2
       },
       {
-        "tanggal": "2020-04-23T06:00:17.000Z",
-        "endpoint": "",
-        "total_hit": 2,
-        "status": "SUCCESS"
-      },
-      {
-        "tanggal": "2020-04-23T07:00:17.000Z",
-        "endpoint": "",
-        "total_hit": 3,
-        "status": "SUCCESS"
-      },
-      {
-        "tanggal": "2020-04-23T08:00:17.000Z",
-        "endpoint": "",
-        "total_hit": 2,
-        "status": "SUCCESS"
-      },
-      {
-        "tanggal": "2020-04-23T09:00:17.000Z",
-        "endpoint": "",
-        "total_hit": 5,
-        "status": "SUCCESS"
-      },
-      {
-        "tanggal": "2020-04-23T10:02:17.000Z",
-        "endpoint": "",
-        "total_hit": 0,
-        "status": "SUCCESS"
+        "date": "2020-05-10T20:40:00.000+07:00",
+        "total_hit": 4
       }
     ]
   },
   "last1": {
     "status": "OK",
-    "responseCode": "0000",
-    "description": "SUCCESS",
-    "count": 3,
-    "grand_total_hit": 6,
+    "responseCode": "200",
+    "description": "Successfully",
+    "success_rate": 100,
+    "total_number_of_hit": 8,
     "data": [
       {
-        "tanggal": "2020-04-23T05:00:17.000Z",
-        "endpoint": "",
-        "total_hit": 2,
-        "status": "SUCCESS"
+        "date": "2020-05-10T20:35:00.000+07:00",
+        "total_hit": 2
       },
       {
-        "tanggal": "2020-04-23T06:00:17.000Z",
-        "endpoint": "",
-        "total_hit": 5,
-        "status": "SUCCESS"
+        "date": "2020-05-10T20:40:00.000+07:00",
+        "total_hit": 3
       },
       {
-        "tanggal": "2020-04-23T07:00:17.000Z",
-        "endpoint": "",
-        "total_hit": 3,
-        "status": "SUCCESS"
-      },
-      {
-        "tanggal": "2020-04-23T08:00:17.000Z",
-        "endpoint": "",
-        "total_hit": 4,
-        "status": "SUCCESS"
-      },
-      {
-        "tanggal": "2020-04-23T09:00:17.000Z",
-        "endpoint": "",
-        "total_hit": 2,
-        "status": "SUCCESS"
-      },
-      {
-        "tanggal": "2020-04-23T10:02:17.000Z",
-        "endpoint": "",
-        "total_hit": 10,
-        "status": "SUCCESS"
+        "date": "2020-05-10T20:45:00.000+07:00",
+        "total_hit": 1
       }
     ]
   },
   "last15min": {
     "status": "OK",
-    "responseCode": "0000",
-    "description": "SUCCESS",
-    "count": 3,
-    "grand_total_hit": 6,
+    "responseCode": "200",
+    "description": "Successfully",
+    "success_rate": 100,
+    "total_number_of_hit": 6,
     "data": [
       {
-        "tanggal": "2020-04-23T05:00:17.000Z",
-        "endpoint": "",
-        "total_hit": 2,
-        "status": "SUCCESS"
+        "date": "2020-05-10T20:39:00.000+07:00",
+        "total_hit": 2
       },
       {
-        "tanggal": "2020-04-23T06:00:17.000Z",
-        "endpoint": "",
-        "total_hit": 5,
-        "status": "SUCCESS"
+        "date": "2020-05-10T20:40:00.000+07:00",
+        "total_hit": 1
       },
       {
-        "tanggal": "2020-04-23T07:00:17.000Z",
-        "endpoint": "",
-        "total_hit": 3,
-        "status": "SUCCESS"
+        "date": "2020-05-10T20:41:00.000+07:00",
+        "total_hit": 0
       },
       {
-        "tanggal": "2020-04-23T08:00:17.000Z",
-        "endpoint": "",
-        "total_hit": 4,
-        "status": "SUCCESS"
+        "date": "2020-05-10T20:42:00.000+07:00",
+        "total_hit": 1
       },
       {
-        "tanggal": "2020-04-23T09:00:17.000Z",
-        "endpoint": "",
-        "total_hit": 2,
-        "status": "SUCCESS"
+        "date": "2020-05-10T20:43:00.000+07:00",
+        "total_hit": 0
       },
       {
-        "tanggal": "2020-04-23T10:02:17.000Z",
-        "endpoint": "",
-        "total_hit": 10,
-        "status": "SUCCESS"
+        "date": "2020-05-10T20:44:00.000+07:00",
+        "total_hit": 1
+      },
+      {
+        "date": "2020-05-10T20:45:00.000+07:00",
+        "total_hit": 0
+      },
+      {
+        "date": "2020-05-10T20:46:00.000+07:00",
+        "total_hit": 1
       }
     ]
   }
